@@ -1,4 +1,4 @@
-package kz.runtime.spring_practice_2;
+package kz.itproger.spring_practice_2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

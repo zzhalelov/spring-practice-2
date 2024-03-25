@@ -1,4 +1,4 @@
-package kz.runtime.spring_practice_2;
+package kz.itproger.spring_practice_2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
